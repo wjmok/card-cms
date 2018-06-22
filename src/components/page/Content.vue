@@ -30,6 +30,10 @@
               prop="keywords">
             </el-table-column>
             <el-table-column
+              label="副标题"
+              prop="small_title">
+            </el-table-column>
+            <el-table-column
               label="创建时间"
               prop="create_time">
             </el-table-column>
